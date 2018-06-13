@@ -10,6 +10,7 @@ namespace HelloWorld
             Console.WriteLine("Nick Hill");
             Console.WriteLine("Tyler Tran");
             Console.WriteLine("Mridul Waldia");
+            Console.WriteLine("Tate Seely");
             Console.ReadKey();
         }
     }
